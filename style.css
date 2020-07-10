@@ -1,0 +1,42 @@
+.container{padding-bottom: 50px;
+margin-bottom: 50px;}
+.logo_firatdiv{float: left;
+}
+ 
+.nav_seconddiv{float: right;}
+.logo{width:100px;}
+.nava{font-size: 25px;}
+.sliderimg{width: 100%;
+padding-left: 140px;}
+.sliderb{background-color: black;
+            color:white;
+            width: 120px;
+            margin-left:30%;
+            padding:5px 0px;
+            border-radius: 8px;
+        }
+
+
+        .card{box-shadow: 6px 6px 40px #888;
+                    border-radius: 10px;}
+
+
+
+    .catagorisdiv1{width:80%;
+                   }
+    .col-md-3{float: left;}
+       .lastdiv2{ }
+.middle_div{ box-shadow: 3px 3px 40px rgb(221, 216, 216);
+             border-radius: 8px;
+            padding:10px 10px;}
+ .catagorisdiv2{width:100%;
+               margin-top:30px;
+                border-radius: 8px;}
+    .lastbag{padding-top: 180px;}
+    h5{text-align: center;
+                padding-top: 30px;}
+    .cotagoristitle{text-align: center;
+        
+        padding-bottom: 50px;
+    }
+    footer{text-align: center;}
